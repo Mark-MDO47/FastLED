@@ -1,3 +1,5 @@
+# Mark-MDO47 version - just hacking around to try to make SK6812-RGBW with ESP32 work; probably too ambitions
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FastLED/public)
 [![arduino-library-badge](https://www.ardu-badge.com/badge/FastLED.svg)](https://www.ardu-badge.com/FastLED)
 ![build status](https://github.com/FastLED/FastLED/workflows/build/badge.svg)
