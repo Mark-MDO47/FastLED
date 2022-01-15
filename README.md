@@ -1,5 +1,7 @@
 # Mark-MDO47 version - just hacking around to try to make SK6812-RGBW with ESP32 work; probably too ambitions
 
+I am using branch ESP32_SK6812_RGBW for my hack; it will set timing for SK6812 RGBW (which I cannot fit into T1/T2/T3) no matter which choice is made (for instance WS2812B). Uses the ESP32 RMT (Remote Control) driver.
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FastLED/public)
 [![arduino-library-badge](https://www.ardu-badge.com/badge/FastLED.svg)](https://www.ardu-badge.com/FastLED)
 ![build status](https://github.com/FastLED/FastLED/workflows/build/badge.svg)
